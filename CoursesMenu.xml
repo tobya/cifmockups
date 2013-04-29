@@ -10,30 +10,35 @@
         <text>12%20Week%20Certificate%20Course%0A%20%0ABook%20Now%20%0A%20%0AAbout%20our%20Certificate%20Course%0A12%20Good%20Reasons%20to%20attend%0AStudent%20Accommodation%0ACourse%20Outline%0A%20%0AFrequently%20Asked%20Questions%0AStudent%20Blogs%0AWine%20Blog%0AWhat%20Students%20Say%0A%20%0A%22The%20most%20amazing%20experience%20%0AI%27ve%20every%20had%20just%20do%20it%21%22%20%20%0A-%20John%2012%20Week%20Student%202012%0A%20%0A%20%0A%20%0A%20</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Menu" x="345" y="181" w="187" h="-1" measuredW="150" measuredH="193" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Menu" x="345" y="181" w="187" h="-1" measuredW="150" measuredH="214" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Short%20Courses%0A%20%0ACourse%20List%0A%20-%20Introductory%20Courses%0A%20-%20Rachel%20Allen%27s%20Courses%0A%20-%20Gardening%20Courses%0A%20-%20Practical%20Classes%0A%20%0AStudent%20Accommodation%0AFrequently%20Asked%20Questions%0A%20</text>
+        <text>Short%20Courses%0A%20%0ACourse%20List%0A%20-%20Introductory%20Courses%0A%20-%20Rachel%20Allen%27s%20Courses%0A%20-%20Gardening%20Courses%0A%20-%20Practical%20Classes%0A%20%0AStudent%20Accommodation%0AFrequently%20Asked%20Questions%0A%20%0ABook%20Now</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Menu" x="633" y="181" w="-1" h="-1" measuredW="150" measuredH="167" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Menu" x="547" y="181" w="254" h="-1" measuredW="150" measuredH="203" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Open%2CCTRL+O%0AOpen%20Recent%20%3E%0A---%0Ao%20Option%20One%0AOption%20Two%0A%3D%0Ax%20Toggle%20Item%0A-Disabled%20Item-%0AExit%2CCTRL+Q</text>
+        <text>Afternoon%20Classes%0A%20%0AJoin%20an%20afternoon%20class%20this%20week.%0A%20%0AMonday%20%0APotato%20Soup%2C%20Roast%20Duck%20%26%20Rhubarb%20%20Tart%0A%20%0ATuesday%0ASalad%20Tiede%2C%20Sweet%20Siciliy%20Chicken%20Pie%0A%20%0ABrowse%20our%20upcoming%20Classes%0A%20%0ABook%20Now</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="345" y="181" w="280" h="363" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Image" x="351" y="382" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="345" y="181" w="202" h="373" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Image" x="351" y="395" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Exciting%20Course%20Picture</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="446" y="385" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="446" y="395" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Delicouse</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="533" y="383" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="351" y="475" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Amazing</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="446" y="475" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delicouse</text>
       </controlProperties>
     </control>
   </controls>
